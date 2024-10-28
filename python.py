@@ -1,5 +1,5 @@
 a = 12
-b = 10
+b = 11
 
 def func():
     print(a*b)
