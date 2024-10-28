@@ -1,4 +1,9 @@
 Extened this file
 Add some stuff
 Changes for master branch
+<<<<<<< HEAD
 channges for branch_1
+=======
+
+Changes for branch 2
+>>>>>>> branch_2_renamed
