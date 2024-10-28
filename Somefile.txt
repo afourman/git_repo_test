@@ -2,3 +2,4 @@ Extened this file
 Add some stuff
 
 Changes for master branch
+Changes for branch 2
